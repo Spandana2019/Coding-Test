@@ -2,7 +2,7 @@
 Coding Test
 
 
-  Assumption:
+  Assumption:<br/>
     1. Assuming Z contains the minimum length of the sub sequence palindrom in the Random Number<br/>
     2. Assuming X contains the number that will be used for division when random number is even<br/>
     3. Assuming Y contains the number that will be added to the random number if random number is odd<br/>
