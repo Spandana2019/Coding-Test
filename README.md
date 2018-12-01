@@ -9,6 +9,7 @@ Coding Test
     4. Assuming positive random numbers are generated
                      
   Flow of the program:
+  
     Initial Setup: create a StringBuffer buf for storing the generated sequence numbers.
   
     1. Generate positive random number, lets say randomNum.
