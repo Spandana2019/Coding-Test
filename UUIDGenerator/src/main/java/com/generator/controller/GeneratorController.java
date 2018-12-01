@@ -35,10 +35,9 @@ Initial Setup: create a StringBuffer buf for storing the generated sequence numb
 
 This project contain both UuidGeneratorApplication and the Junit test cases.
 
-The url is localhost:<portnumber>/generateUUID?x=2&y=7&z=5
+The url is : localhost:<portnumber>/generateUUID?x=2&y=7&z=5
 
 example : http://localhost:8800/generateUUID?x=2&y=7&z=5
-
 */
 
 @RestController
